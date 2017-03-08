@@ -1,11 +1,11 @@
 # Backwards-reasoning-PSZT
 Warsaw University of Technology project for Basics of AI course
 
-Syntax of knowledge base:
-& -> and
-=> -> implies
-- -> negation
-; -> separates sentences
+Syntax of knowledge base:  
+& -> and  
+=> -> implies  
+\- -> negation  
+; -> separates sentences  
 A sentence without '&' or '=>' is a fact
 
 
